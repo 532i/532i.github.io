@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-1.png" group-title="央视",CCTV-1综合[高清]
 http://192.168.10.1:23234/rtp/239.2.1.129:8000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-2.png" group-title="央视",CCTV-2财经[高清]
@@ -299,4 +299,5 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
