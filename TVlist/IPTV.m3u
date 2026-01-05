@@ -156,7 +156,7 @@ http://192.168.10.1:23234/rtp/239.2.1.56:4120
 
 #EXTINF:-1 tvg-name="BTV文艺" tvg-logo="http://532i.github.io/TVlist/logo/BRTV2.png" group-title="北京",北京文艺[高清]
 http://192.168.10.1:23234/rtp/239.2.1.242:8000
-#EXTINF:-1 tvg-name="BTV科教" tvg-logo="http://532i.github.io/TVlist/logo/BRTV3.png" group-title="北京",北京纪实科教[高清]
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="http://532i.github.io/TVlist/logo/BRTV3.png" group-title="北京",北京纪实科教[高清]
 http://192.168.10.1:23234/rtp/239.2.1.115:8000
 #EXTINF:-1 tvg-name="BTV影视" tvg-logo="http://532i.github.io/TVlist/logo/BRTV4.png" group-title="北京",北京影视[高清]
 http://192.168.10.1:23234/rtp/239.2.1.158:8000
@@ -170,7 +170,7 @@ http://192.168.10.1:23234/rtp/239.2.1.117:8000
 http://192.168.10.1:23234/rtp/239.2.1.159:8000
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="http://532i.github.io/TVlist/logo/BRTV10.png" group-title="北京",北京卡酷少儿[高清]
 http://192.168.10.1:23234/rtp/239.2.1.189:8000
-#EXTINF:-1 tvg-name="BTV国际" tvg-logo="http://532i.github.io/TVlist/logo/BRTVGUOJI.png" group-title="北京",北京国际[高清]
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="http://532i.github.io/TVlist/logo/BRTVGUOJI.png" group-title="北京",北京国际[高清]
 http://192.168.10.1:23234/rtp/239.2.1.235:8000
 #EXTINF:-1 tvg-name="4K超清" tvg-logo="http://532i.github.io/TVlist/logo/BJ4K.png" group-title="4K",4K超清
 http://192.168.10.1:23234/rtp/239.2.1.249:8002
@@ -299,6 +299,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
