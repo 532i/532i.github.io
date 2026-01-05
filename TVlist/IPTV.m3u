@@ -172,13 +172,13 @@ http://192.168.10.1:23234/rtp/239.2.1.159:8000
 http://192.168.10.1:23234/rtp/239.2.1.189:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="http://532i.github.io/TVlist/logo/BRTVGUOJI.png" group-title="北京",北京国际[高清]
 http://192.168.10.1:23234/rtp/239.2.1.235:8000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="http://532i.github.io/TVlist/logo/BJ4K.png" group-title="4K",4K超清
+#EXTINF:-1 tvg-name="北京IPTV4K超清" tvg-logo="http://532i.github.io/TVlist/logo/BJ4K.png" group-title="4K",4K超清
 http://192.168.10.1:23234/rtp/239.2.1.249:8002
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://532i.github.io/TVlist/logo/AISHANG4K.png" group-title="4K",爱上4K
 http://192.168.10.1:23234/rtp/239.2.1.236:2000
 #EXTINF:-1 tvg-name="萌宠TV" tvg-logo="http://532i.github.io/TVlist/logo/BJMENGCHONG.png" group-title="北京",萌宠TV[高清]
 http://192.168.10.1:23234/rtp/239.2.1.102:8002
-#EXTINF:-1 tvg-name="淘Baby" tvg-logo="http://532i.github.io/TVlist/logo/BJTAOBABY.png" group-title="北京",淘Baby[高清]
+#EXTINF:-1 tvg-name="淘BABY" tvg-logo="http://532i.github.io/TVlist/logo/BJTAOBABY.png" group-title="北京",淘Baby[高清]
 http://192.168.10.1:23234/rtp/239.2.1.238:8002
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="http://532i.github.io/TVlist/logo/BJTAOJVCHANG.png" group-title="北京",淘剧场[高清]
 http://192.168.10.1:23234/rtp/239.2.1.95:8002
@@ -299,6 +299,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
