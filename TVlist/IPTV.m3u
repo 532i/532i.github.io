@@ -222,7 +222,7 @@ http://192.168.10.1:23234/rtp/239.2.1.51:9252
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://532i.github.io/TVlist/logo/JIAJIAKATONG.png" group-title="数字",嘉佳卡通
 http://192.168.10.1:23234/rtp/239.2.1.147:9268
 ##EXTINF:-1 tvg-name="财富天下" tvg-logo="http://532i.github.io/TVlist/logo/CAIFUTIANXIA.png" group-title="数字",财富天下
-http://192.168.10.1:23234/rtp/239.2.1.53:9136
+#http://192.168.10.1:23234/rtp/239.2.1.53:9136
 #EXTINF:-1 tvg-name="证券服务" tvg-logo="http://532i.github.io/TVlist/logo/ZHENGQUANFUWU.png" group-title="数字",证券服务[高清]
 http://192.168.10.1:23234/rtp/239.2.1.24:8000
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="http://532i.github.io/TVlist/logo/CHONGWENJINGDIAN.png" group-title="数字",重温经典[高清]
@@ -299,6 +299,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
