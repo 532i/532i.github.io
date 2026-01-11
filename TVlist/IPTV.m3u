@@ -168,7 +168,7 @@ http://192.168.10.1:23234/rtp/239.2.1.243:8000
 http://192.168.10.1:23234/rtp/239.2.1.117:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="http://532i.github.io/TVlist/logo/BRTV9.png" group-title="北京",北京新闻[高清]
 http://192.168.10.1:23234/rtp/239.2.1.159:8000
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="http://532i.github.io/TVlist/logo/BRTV10.png" group-title="北京",北京卡酷少儿[高清]
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://532i.github.io/TVlist/logo/BRTV10.png" group-title="北京",北京卡酷少儿[高清]
 http://192.168.10.1:23234/rtp/239.2.1.189:8000
 #EXTINF:-1 tvg-name="北京国际频道" tvg-logo="http://532i.github.io/TVlist/logo/BRTVGUOJI.png" group-title="北京",北京国际[高清]
 http://192.168.10.1:23234/rtp/239.2.1.235:8000
@@ -299,6 +299,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
