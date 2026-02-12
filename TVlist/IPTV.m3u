@@ -1,57 +1,57 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-1.png" group-title="央视",CCTV-1综合[高清]
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/epg.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-1.png" group-title="央视",CCTV-1综合[高清]
 http://192.168.10.1:23234/rtp/239.2.1.129:8000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-2.png" group-title="央视",CCTV-2财经[高清]
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-2.png" group-title="央视",CCTV-2财经[高清]
 http://192.168.10.1:23234/rtp/239.2.1.60:8084
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-3.png" group-title="央视",CCTV-3综艺[高清]
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-3.png" group-title="央视",CCTV-3综艺[高清]
 http://192.168.10.1:23234/rtp/239.2.1.172:8000
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4.png" group-title="央视",CCTV-4中文国际[高清]
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4.png" group-title="央视",CCTV-4中文国际[高清]
 http://192.168.10.1:23234/rtp/239.2.1.105:8092
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-5.png" group-title="央视",CCTV-5体育[高清]
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-5.png" group-title="央视",CCTV-5体育[高清]
 http://192.168.10.1:23234/rtp/239.2.1.173:8000
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-6.png" group-title="央视",CCTV-6电影[高清]
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-6.png" group-title="央视",CCTV-6电影[高清]
 http://192.168.10.1:23234/rtp/239.2.1.174:8000
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-7.png" group-title="央视",CCTV-7国防军事[高清]
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-7.png" group-title="央视",CCTV-7国防军事[高清]
 http://192.168.10.1:23234/rtp/239.2.1.61:8104
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-8.png" group-title="央视",CCTV-8电视剧[高清]
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-8.png" group-title="央视",CCTV-8电视剧[高清]
 http://192.168.10.1:23234/rtp/239.2.1.175:8000
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-9.png" group-title="央视",CCTV-9纪录[高清]
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-9.png" group-title="央视",CCTV-9纪录[高清]
 http://192.168.10.1:23234/rtp/239.2.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-10.png" group-title="央视",CCTV-10科教[高清]
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-10.png" group-title="央视",CCTV-10科教[高清]
 http://192.168.10.1:23234/rtp/239.2.1.63:8116
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-11.png" group-title="央视",CCTV-11戏曲[高清]
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-11.png" group-title="央视",CCTV-11戏曲[高清]
 http://192.168.10.1:23234/rtp/239.2.1.152:8120
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-12.png" group-title="央视",CCTV-12社会与法[高清]
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-12.png" group-title="央视",CCTV-12社会与法[高清]
 http://192.168.10.1:23234/rtp/239.2.1.64:8124
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-13.png" group-title="央视",CCTV-13新闻[高清]
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-13.png" group-title="央视",CCTV-13新闻[高清]
 http://192.168.10.1:23234/rtp/239.2.1.124:8128
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-14.png" group-title="央视",CCTV-14少儿[高清]
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-14.png" group-title="央视",CCTV-14少儿[高清]
 http://192.168.10.1:23234/rtp/239.2.1.65:8132
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-15.png" group-title="央视",CCTV-15音乐[高清]
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-15.png" group-title="央视",CCTV-15音乐[高清]
 http://192.168.10.1:23234/rtp/239.2.1.153:8136
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-16.png" group-title="央视",CCTV-16奥林匹克[高清]
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-16.png" group-title="央视",CCTV-16奥林匹克[高清]
 http://192.168.10.1:23234/rtp/239.2.1.184:8000
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-17.png" group-title="央视",CCTV-17农业农村[高清]
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-17.png" group-title="央视",CCTV-17农业农村[高清]
 http://192.168.10.1:23234/rtp/239.2.1.151:8144
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-5p.png" group-title="央视",CCTV-5+体育赛事[高清]
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-5p.png" group-title="央视",CCTV-5+体育赛事[高清]
 http://192.168.10.1:23234/rtp/239.2.1.130:8004
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4EUO.png" group-title="央视",CCTV-4中文国际欧洲[高清]
+#EXTINF:-1 tvg-id="341" tvg-name="CCTV4欧洲" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4EUO.png" group-title="央视",CCTV-4中文国际欧洲[高清]
 http://192.168.10.1:23234/rtp/239.2.1.213:4220
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4AME.png" group-title="央视",CCTV-4中文国际美洲[高清]
+#EXTINF:-1 tvg-id="342" tvg-name="CCTV4美洲" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4AME.png" group-title="央视",CCTV-4中文国际美洲[高清]
 http://192.168.10.1:23234/rtp/239.2.1.214:4220
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4K.png" group-title="4K",CCTV-4K超高清
+#EXTINF:-1 tvg-id="85" tvg-name="CCTV4K" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4K.png" group-title="4K",CCTV-4K超高清
 http://192.168.10.1:23234/rtp/239.2.1.245:2000
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://532i.github.io/TVlist/logo/CGTN.png" group-title="央视",CGTN新闻[高清]
+#EXTINF:-1 tvg-id="343" tvg-name="CGTN" tvg-logo="http://532i.github.io/TVlist/logo/CGTN.png" group-title="央视",CGTN新闻[高清]
 http://192.168.10.1:23234/rtp/239.2.1.215:4220
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="http://532i.github.io/TVlist/logo/CGTNJILU.png" group-title="央视",CGTN记录[高清]
+#EXTINF:-1 tvg-id="344" tvg-name="CGTN纪录" tvg-logo="http://532i.github.io/TVlist/logo/CGTNJILU.png" group-title="央视",CGTN记录[高清]
 http://192.168.10.1:23234/rtp/239.2.1.216:4220
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNXBYY.png" group-title="央视",CGTN西班牙语[高清]
+#EXTINF:-1 tvg-id="345" tvg-name="CGTN西语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNXBYY.png" group-title="央视",CGTN西班牙语[高清]
 http://192.168.10.1:23234/rtp/239.2.1.217:4220
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNFY.png" group-title="央视",CGTN法语[高清]
+#EXTINF:-1 tvg-id="346" tvg-name="CGTN法语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNFY.png" group-title="央视",CGTN法语[高清]
 http://192.168.10.1:23234/rtp/239.2.1.218:4220
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNALBY.png" group-title="央视",CGTN阿拉伯语[高清]
+#EXTINF:-1 tvg-id="347" tvg-name="CGTN阿语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNALBY.png" group-title="央视",CGTN阿拉伯语[高清]
 http://192.168.10.1:23234/rtp/239.2.1.219:4220
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNEY.png" group-title="央视",CGTN俄语[高清]
+#EXTINF:-1 tvg-id="348" tvg-name="CGTN俄语" tvg-logo="http://532i.github.io/TVlist/logo/CGTNEY.png" group-title="央视",CGTN俄语[高清]
 http://192.168.10.1:23234/rtp/239.2.1.220:4220
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://532i.github.io/TVlist/logo/BRTV4K.png" group-title="4K",北京卫视4K超高清
@@ -299,6 +299,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
