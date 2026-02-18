@@ -294,10 +294,11 @@ http://192.168.10.1:23234/rtp/239.2.1.88:4120
 #EXTINF:-1 tvg-id="373" tvg-name="足球" tvg-logo="http://532i.github.io/TVlist/logo/IPTVZUQIU.png" group-title="轮播",足球
 http://192.168.10.1:23234/rtp/239.2.1.89:4120
 
-#EXTINF:-1,测试-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png"
+#EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-1
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
-#EXTINF:-1,测试-2 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png"
+#EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
