@@ -235,6 +235,10 @@ http://192.168.10.1:23234/rtp/239.2.1.195:9024
 http://192.168.10.1:23234/rtp/239.2.1.196:9012
 #EXTINF:-1 tvg-id="207" tvg-name="IPTV少儿动画" tvg-logo="http://532i.github.io/TVlist/logo/IPTVSHAOERDONGHUA.png" group-title="轮播",少儿动画
 http://192.168.10.1:23234/rtp/239.2.1.199:9000
+#EXTINF:-1 tvg-id="369" tvg-name="台球" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",经典剧场
+http://192.168.10.1:23234/rtp/239.2.1.85:4120
+#EXTINF:-1 tvg-id="372" tvg-name="高网" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",红色影院
+http://192.168.10.1:23234/rtp/239.2.1.88:4120
 #EXTINF:-1 tvg-id="374" tvg-name="武侠剧场" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",武侠剧场
 http://192.168.10.1:23234/rtp/239.2.1.90:4120
 #EXTINF:-1 tvg-id="375" tvg-name="喜剧影院" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",喜剧影院
@@ -283,14 +287,10 @@ http://192.168.10.1:23234/rtp/239.2.1.81:4120
 http://192.168.10.1:23234/rtp/239.2.1.82:4120
 #EXTINF:-1 tvg-id="367" tvg-name="墨宝" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",墨宝
 http://192.168.10.1:23234/rtp/239.2.1.83:4120
-#EXTINF:-1 tvg-id="369" tvg-name="台球" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",台球
-http://192.168.10.1:23234/rtp/239.2.1.85:4120
 #EXTINF:-1 tvg-id="370" tvg-name="爱生活" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",爱生活
 http://192.168.10.1:23234/rtp/239.2.1.86:4120
 #EXTINF:-1 tvg-id="371" tvg-name="武术" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",武术
 http://192.168.10.1:23234/rtp/239.2.1.87:4120
-#EXTINF:-1 tvg-id="372" tvg-name="高网" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",高网
-http://192.168.10.1:23234/rtp/239.2.1.88:4120
 #EXTINF:-1 tvg-id="373" tvg-name="足球" tvg-logo="http://532i.github.io/TVlist/logo/IPTVZUQIU.png" group-title="轮播",足球
 http://192.168.10.1:23234/rtp/239.2.1.89:4120
 
@@ -298,6 +298,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
