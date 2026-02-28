@@ -189,9 +189,9 @@ http://192.168.10.1:23234/rtp/239.2.1.100:8002
 #EXTINF:-1 tvg-id="301" tvg-logo="http://532i.github.io/TVlist/logo/BJFANGSHAN.png" group-title="北京",北京房山[高清]
 http://192.168.10.1:23234/rtp/239.2.1.96:8002
 #EXTINF:-1 tvg-id="302" tvg-logo="http://532i.github.io/TVlist/logo/BJCHAOYANG.png" group-title="北京",北京朝阳[高清]
-http://192.168.10.1:23234/rtp/239.2.1.163:8001
+http://192.168.10.1:23234/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="303" tvg-logo="http://532i.github.io/TVlist/logo/BJMIYUN.png" group-title="北京",北京密云[高清]
-http://192.168.10.1:23234/rtp/239.2.1.154:8000
+http://192.168.10.1:23234/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="304" tvg-logo="http://532i.github.io/TVlist/logo/BJTONGZHOU.png" group-title="北京",北京通州[高清]
 http://192.168.10.1:23234/rtp/239.2.1.221:8000
 #EXTINF:-1 tvg-id="305" tvg-logo="http://532i.github.io/TVlist/logo/BJYANQING.png" group-title="北京",北京延庆
@@ -298,6 +298,7 @@ http://192.168.10.1:23234/rtp/239.2.1.89:4120
 http://192.168.10.1:23234/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png",测试-2
 http://192.168.10.1:23234/rtp/239.2.1.140:8000
+
 
 
 
