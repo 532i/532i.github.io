@@ -224,7 +224,7 @@ http://192.168.10.1:23234/rtp/239.2.1.51:9252
 http://192.168.10.1:23234/rtp/239.2.1.147:9268
 #EXTINF:-1 tvg-id="80" tvg-name="证券服务" tvg-logo="http://532i.github.io/TVlist/logo/ZHENGQUANFUWU.png" group-title="数字",证券服务[高清]
 http://192.168.10.1:23234/rtp/239.2.1.24:8000
-#EXTINF:-1 tvg-id="349" tvg-name="重温经典" tvg-logo="http://532i.github.io/TVlist/logo/CHONGWENJINGDIAN.png" group-title="数字",重温经典[高清]
+#EXTINF:-1 tvg-id="349" tvg-name="重温经典" tvg-logo="http://532i.github.io/TVlist/logo/IPTVCWJD.png" group-title="数字",重温经典[高清]
 http://192.168.10.1:23234/rtp/239.2.1.25:8000
 
 #EXTINF:-1 tvg-id="202" tvg-name="IPTV热播剧场" tvg-logo="http://532i.github.io/TVlist/logo/IPTVREBOJVCHANG.png" group-title="轮播",热播剧场
