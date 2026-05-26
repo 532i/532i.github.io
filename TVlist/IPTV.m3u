@@ -216,7 +216,7 @@ http://192.168.10.1:23234/rtp/239.2.1.164:8000
 http://192.168.10.1:23234/rtp/239.2.1.109:8000
 #EXTINF:-1 tvg-id="79" tvg-name="中国交通频道" tvg-logo="http://532i.github.io/TVlist/logo/ZHONGGUOJIAOTONG.png" group-title="数字",中国交通[高清]
 http://192.168.10.1:23234/rtp/239.2.1.188:8000
-#EXTINF:-1 tvg-id=" " tvg-name="求索记录4K" tvg-logo="http://532i.github.io/TVlist/logo/QSJL.png" group-title="数字",求索记录4K
+#EXTINF:-1 tvg-id=" " tvg-name="求索记录4K" tvg-logo="http://532i.github.io/TVlist/logo/QSJL.png" group-title="4K",求索记录4K
 http://192.168.10.1:23234/rtp/239.2.1.107:8000
 
 #EXTINF:-1 tvg-id="77" tvg-name="金鹰纪实" tvg-logo="http://532i.github.io/TVlist/logo/JINYINGJISHI.png" group-title="数字",金鹰纪实[高清]
