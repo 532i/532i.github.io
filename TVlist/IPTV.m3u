@@ -201,7 +201,8 @@ http://192.168.10.1:23234/rtp/239.2.1.59:8000
 #EXTINF:-1 tvg-id="307" tvg-logo="http://532i.github.io/TVlist/logo/BJPINGGU.png" group-title="北京",北京平谷[高清]
 http://192.168.10.1:23234/rtp/239.2.1.23:8000
 
-
+#EXTINF:-1 tvg-id="36" tvg-name="求索4K" tvg-logo="http://532i.github.io/TVlist/logo/QSJL.png" group-title="4K",求索记录4K
+http://192.168.10.1:23234/rtp/239.2.1.107:8000
 #EXTINF:-1 tvg-id="66" tvg-name="睛彩竞技" tvg-logo="http://532i.github.io/TVlist/logo/JCJJ.png" group-title="数字",睛彩竞技[高清]
 http://192.168.10.1:23234/rtp/239.2.1.125:8000
 #EXTINF:-1 tvg-id="67" tvg-name="睛彩篮球" tvg-logo="http://532i.github.io/TVlist/logo/JCLQ.png" group-title="数字",睛彩篮球[高清]
@@ -218,8 +219,6 @@ http://192.168.10.1:23234/rtp/239.3.1.109:8001
 http://192.168.10.1:23234/rtp/239.2.1.109:8000
 #EXTINF:-1 tvg-id="79" tvg-name="中国交通频道" tvg-logo="http://532i.github.io/TVlist/logo/ZHONGGUOJIAOTONG.png" group-title="数字",中国交通[高清]
 http://192.168.10.1:23234/rtp/239.2.1.188:8000
-#EXTINF:-1 tvg-id="36" tvg-name="求索4K" tvg-logo="http://532i.github.io/TVlist/logo/QSJL.png" group-title="4K",求索记录4K
-http://192.168.10.1:23234/rtp/239.2.1.107:8000
 #EXTINF:-1 tvg-id="77" tvg-name="金鹰纪实" tvg-logo="http://532i.github.io/TVlist/logo/JINYINGJISHI.png" group-title="数字",金鹰纪实[高清]
 http://192.168.10.1:23234/rtp/239.2.1.58:8156
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰卡通" tvg-logo="http://532i.github.io/TVlist/logo/JINYINGKATONG.png" group-title="数字",金鹰卡通
