@@ -214,9 +214,9 @@ http://192.168.10.1:8888/rtp/239.2.1.128:8000
 #EXTINF:-1 tvg-id="320" tvg-name="四海钓鱼" tvg-logo="http://532i.github.io/TVlist/logo/SHDY.png" group-title="数字",四海钓鱼[高清]
 http://192.168.10.1:8888/rtp/239.2.1.164:8000
 #EXTINF:-1 tvg-id="323" tvg-name="环球旅游" tvg-logo="http://532i.github.io/TVlist/logo/HQLY.png" group-title="数字",环球旅游[高清]
-http://192.168.10.1:8888/rtp/239.3.1.109:8001
+http://192.168.10.1:8888/rtp/239.2.1.109:8001
 #EXTINF:-1 tvg-id="322" tvg-name="中国天气" tvg-logo="http://532i.github.io/TVlist/logo/ZGTQ.png" group-title="数字",中国天气[高清]
-http://192.168.10.1:8888/rtp/239.2.1.109:8000
+http://192.168.10.1:8888/rtp/239.2.1.108:8000
 #EXTINF:-1 tvg-id="79" tvg-name="中国交通频道" tvg-logo="http://532i.github.io/TVlist/logo/ZHONGGUOJIAOTONG.png" group-title="数字",中国交通[高清]
 http://192.168.10.1:8888/rtp/239.2.1.188:8000
 #EXTINF:-1 tvg-id="77" tvg-name="金鹰纪实" tvg-logo="http://532i.github.io/TVlist/logo/JINYINGJISHI.png" group-title="数字",金鹰纪实[高清]
