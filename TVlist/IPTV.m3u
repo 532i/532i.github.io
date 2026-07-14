@@ -201,7 +201,7 @@ http://192.168.10.1:8888/rtp/239.2.1.23:8000
 
 #EXTINF:-1 tvg-id="36" tvg-name="求索4K" tvg-logo="http://532i.github.io/TVlist/logo/QSJL.png" group-title="4K",求索记录4K
 http://192.168.10.1:8888/rtp/239.2.1.107:8000
-#EXTINF:-1 tvg-id="66" tvg-name="睛彩竞技" tvg-logo="http://532i.github.io/TVlist/logo/JCJJ.png" group-title="数字", catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226160/10000100000000060000000001464323_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"睛彩竞技[高清]
+#EXTINF:-1 tvg-id="66" tvg-name="睛彩竞技" tvg-logo="http://532i.github.io/TVlist/logo/JCJJ.png" group-title="数字" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226160/10000100000000060000000001464323_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩竞技[高清]
 http://192.168.10.1:8888/rtp/239.2.1.125:8000
 #EXTINF:-1 tvg-id="67" tvg-name="睛彩篮球" tvg-logo="http://532i.github.io/TVlist/logo/JCLQ.png" group-title="数字" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226162/10000100000000060000000001464344_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩篮球[高清]
 http://192.168.10.1:8888/rtp/239.2.1.126:8000
