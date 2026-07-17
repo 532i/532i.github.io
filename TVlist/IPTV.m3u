@@ -7,7 +7,7 @@ http://192.168.10.1:8888/rtp/239.2.1.60:8084
 http://192.168.10.1:8888/rtp/239.2.1.172:8000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226081/10000100000000060000000000545704_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4中文国际[高清]
 http://192.168.10.1:8888/rtp/239.2.1.105:8092
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-5.png" group-title="央视" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831269_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5体育[高清]
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-5.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831269_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5体育[高清]
 http://192.168.10.1:8888/rtp/239.2.1.173:8000
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-6.png" group-title="央视",CCTV-6电影[高清]
 http://192.168.10.1:8888/rtp/239.2.1.174:8000
