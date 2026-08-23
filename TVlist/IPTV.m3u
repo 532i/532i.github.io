@@ -264,7 +264,7 @@ http://192.168.10.1:8888/rtp/239.2.1.68:4120
 http://192.168.10.1:8888/rtp/239.2.1.69:4120
 #EXTINF:-1 tvg-id="354" tvg-name="音乐现场" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226014/10000100000000060000000000285642_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",音乐现场
 http://192.168.10.1:8888/rtp/239.2.1.70:4120
-#EXTINF:-1 tvg-id="201" tvg-name="IPTV收视指南" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225853/10000100000000060000000000025076_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",收视指南
+#EXTINF:-1 tvg-id="201" tvg-name="收视指南" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225853/10000100000000060000000000025076_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",收视指南
 http://192.168.10.1:8888/rtp/239.2.1.193:8012
 #EXTINF:-1 tvg-id="355" tvg-name="地理" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播",地理
 http://192.168.10.1:8888/rtp/239.2.1.71:4120
