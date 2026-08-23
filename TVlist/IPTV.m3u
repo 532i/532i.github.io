@@ -70,7 +70,7 @@ http://192.168.10.1:8888/rtp/239.2.1.27:2000
 http://192.168.10.1:8888/rtp/239.2.1.28:2000
 #EXTINF:-1 tvg-id="50" tvg-name="山东卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/SHANDONG.png" group-title="4K" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视4K超高清
 http://192.168.10.1:8888/rtp/239.2.1.144:3004
-#EXTINF:-1 tvg-id="142" tvg-name="四川卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/SICHUAN.png" group-title="4K" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视4K超高清
+#EXTINF:-1 tvg-id="142" tvg-name="四川卫视" tvg-logo="http://532i.github.io/TVlist/logo/SICHUAN.png" group-title="4K" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视4K超高清
 http://192.168.10.1:8888/rtp/239.2.1.241:3000
 
 #EXTINF:-1 tvg-id="121" tvg-name="BRTV北京卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/BRTV.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视[高清]
@@ -230,17 +230,17 @@ http://192.168.10.1:8888/rtp/239.2.1.25:8000
 #EXTINF:-1 tvg-id="70" tvg-name="CHC动作电影" tvg-logo="http://532i.github.io/TVlist/logo/CHCDZDY.png" group-title="数字",CHC动作电影[高清]
 http://192.168.10.1:8888/rtp/239.2.1.106:8000
 
-#EXTINF:-1 tvg-id="202" tvg-name="IPTV热播剧场" tvg-logo="http://532i.github.io/TVlist/logo/IPTVREBOJVCHANG.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
+#EXTINF:-1 tvg-id="202" tvg-name="热播剧场" tvg-logo="http://532i.github.io/TVlist/logo/IPTVREBOJVCHANG.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
 http://192.168.10.1:8888/rtp/239.2.1.194:9020
-#EXTINF:-1 tvg-id="203" tvg-name="IPTV经典电影" tvg-logo="http://532i.github.io/TVlist/logo/IPTVJINGDIANDIANYING.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
+#EXTINF:-1 tvg-id="203" tvg-name="经典电影" tvg-logo="http://532i.github.io/TVlist/logo/IPTVJINGDIANDIANYING.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
 http://192.168.10.1:8888/rtp/239.2.1.195:9024
-#EXTINF:-1 tvg-id="204" tvg-name="IPTV魅力时尚" tvg-logo="http://532i.github.io/TVlist/logo/IPTVMEILISHISHANG.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225850/10000100000000060000000000025079_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
+#EXTINF:-1 tvg-id="204" tvg-name="魅力时尚" tvg-logo="http://532i.github.io/TVlist/logo/IPTVMEILISHISHANG.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225850/10000100000000060000000000025079_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
 http://192.168.10.1:8888/rtp/239.2.1.196:9012
-#EXTINF:-1 tvg-id="207" tvg-name="IPTV少儿动画" tvg-logo="http://532i.github.io/TVlist/logo/IPTVSHAOERDONGHUA.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
+#EXTINF:-1 tvg-id="207" tvg-name="少儿动画" tvg-logo="http://532i.github.io/TVlist/logo/IPTVSHAOERDONGHUA.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
 http://192.168.10.1:8888/rtp/239.2.1.199:9000
-#EXTINF:-1 tvg-id="369" tvg-name="台球" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226023/10000100000000060000000000285657_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典剧场
+#EXTINF:-1 tvg-id="369" tvg-name="经典剧场" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226023/10000100000000060000000000285657_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典剧场
 http://192.168.10.1:8888/rtp/239.2.1.85:4120
-#EXTINF:-1 tvg-id="372" tvg-name="高网" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226032/10000100000000060000000000285660_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",红色影院
+#EXTINF:-1 tvg-id="372" tvg-name="红色影院" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226032/10000100000000060000000000285660_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",红色影院
 http://192.168.10.1:8888/rtp/239.2.1.88:4120
 #EXTINF:-1 tvg-id="374" tvg-name="武侠剧场" tvg-logo="http://532i.github.io/TVlist/logo/LUNBO.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226041/10000100000000060000000000286228_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",武侠剧场
 http://192.168.10.1:8888/rtp/239.2.1.90:4120
