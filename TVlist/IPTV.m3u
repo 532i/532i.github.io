@@ -301,7 +301,7 @@ http://192.168.10.1:8888/rtp/239.2.1.89:4120
 http://192.168.10.1:8888/rtp/239.2.1.139:8000
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png" group-title="测试",测试-2
 http://192.168.10.1:8888/rtp/239.2.1.140:8000
-#EXTINF:-1 tvg-id="121" tvg-name="BRTV北京卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/BRTV.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}", 北京卫视4K
+#EXTINF:-1 tvg-id="121" tvg-name="BRTV北京卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/BRTV.png" group-title="测试" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}", 北京卫视4K
 http://192.168.10.1:8888/rtp/239.2.1.22:8000
 
 
