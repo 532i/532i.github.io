@@ -39,6 +39,18 @@ http://192.168.10.1:8888/rtp/239.2.1.130:8004
 http://192.168.10.1:8888/rtp/239.2.1.213:4220
 #EXTINF:-1 tvg-id="342" tvg-name="CCTV-4美洲高清" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4AME.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226149/10000100000000060000000001154841_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4中文国际美洲[高清]
 http://192.168.10.1:8888/rtp/239.2.1.214:4220
+#EXTINF:-1 tvg-id="343" tvg-name="CGTN 英语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTN.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226151/10000100000000060000000001154843_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN新闻[高清]
+http://192.168.10.1:8888/rtp/239.2.1.215:4220
+#EXTINF:-1 tvg-id="344" tvg-name="CGTN 英文纪录高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNJILU.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN记录[高清]
+http://192.168.10.1:8888/rtp/239.2.1.216:4220
+#EXTINF:-1 tvg-id="345" tvg-name="CGTN 西班牙语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNXBYY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226140/10000100000000060000000001154848_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN西班牙语[高清]
+http://192.168.10.1:8888/rtp/239.2.1.217:4220
+#EXTINF:-1 tvg-id="346" tvg-name="CGTN 法语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNFY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226142/10000100000000060000000001154852_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN法语[高清]
+http://192.168.10.1:8888/rtp/239.2.1.218:4220
+#EXTINF:-1 tvg-id="347" tvg-name="CGTN 阿拉伯语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNALBY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226155/10000100000000060000000001154853_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN阿拉伯语[高清]
+http://192.168.10.1:8888/rtp/239.2.1.219:4220
+#EXTINF:-1 tvg-id="348" tvg-name="CGTN 俄语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNEY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226144/10000100000000060000000001154854_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN俄语[高清]
+http://192.168.10.1:8888/rtp/239.2.1.220:4220
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4K.png" group-title="4K",CCTV-4K超高清
 http://192.168.10.1:8888/rtp/239.2.1.245:2000
 
@@ -285,19 +297,6 @@ http://192.168.10.1:8888/rtp/239.2.1.86:4120
 http://192.168.10.1:8888/rtp/239.2.1.87:4120
 #EXTINF:-1 tvg-id="373" tvg-name="足球" tvg-logo="http://532i.github.io/TVlist/logo/IPTVZUQIU.png" group-title="轮播" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226027/10000100000000060000000000285661_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",足球
 http://192.168.10.1:8888/rtp/239.2.1.89:4120
-
-#EXTINF:-1 tvg-id="343" tvg-name="CGTN 英语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTN.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226151/10000100000000060000000001154843_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN新闻[高清]
-http://192.168.10.1:8888/rtp/239.2.1.215:4220
-#EXTINF:-1 tvg-id="344" tvg-name="CGTN 英文纪录高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNJILU.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN记录[高清]
-http://192.168.10.1:8888/rtp/239.2.1.216:4220
-#EXTINF:-1 tvg-id="345" tvg-name="CGTN 西班牙语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNXBYY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226140/10000100000000060000000001154848_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN西班牙语[高清]
-http://192.168.10.1:8888/rtp/239.2.1.217:4220
-#EXTINF:-1 tvg-id="346" tvg-name="CGTN 法语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNFY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226142/10000100000000060000000001154852_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN法语[高清]
-http://192.168.10.1:8888/rtp/239.2.1.218:4220
-#EXTINF:-1 tvg-id="347" tvg-name="CGTN 阿拉伯语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNALBY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226155/10000100000000060000000001154853_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN阿拉伯语[高清]
-http://192.168.10.1:8888/rtp/239.2.1.219:4220
-#EXTINF:-1 tvg-id="348" tvg-name="CGTN 俄语高清" tvg-logo="http://532i.github.io/TVlist/logo/CGTNEY.png" group-title="央视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226144/10000100000000060000000001154854_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN俄语[高清]
-http://192.168.10.1:8888/rtp/239.2.1.220:4220
 
 #EXTINF:-1 tvg-logo="http://532i.github.io/TVlist/logo/BJIPTV.png" group-title="测试" ,测试-1
 http://192.168.10.1:8888/rtp/239.2.1.139:8000
