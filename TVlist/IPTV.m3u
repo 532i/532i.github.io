@@ -97,12 +97,12 @@ http://192.168.10.1:8888/rtp/239.2.1.209:8052
 http://192.168.10.1:8888/rtp/239.2.1.122:8160
 #EXTINF:-1 tvg-id="53" tvg-name="黑龙江卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/HEILONGJIANG.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225864/10000100000000060000000000025092_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视[高清]
 http://192.168.10.1:8888/rtp/239.2.1.133:8016
-#EXTINF:-1 tvg-id="158" tvg-name="海南卫视" tvg-logo="http://532i.github.io/TVlist/logo/HAINAN.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225842/10000100000000060000000000025071_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
-http://192.168.10.1:8888/rtp/239.2.1.45:8304
+#EXTINF:-1 tvg-id="158" tvg-name="海南卫视" tvg-logo="http://532i.github.io/TVlist/logo/HAINAN.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225842/10000100000000060000000000025071_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视[高清]
+http://192.168.10.1:8888/rtp/239.2.1.205:8228
 #EXTINF:-1 tvg-id="55" tvg-name="贵州卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/GUIZHOU.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226097/10000100000000060000000000736148_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视[高清]
 http://192.168.10.1:8888/rtp/239.2.1.149:8076
-#EXTINF:-1 tvg-id="142" tvg-name="四川卫视" tvg-logo="http://532i.github.io/TVlist/logo/SICHUAN.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
-http://192.168.10.1:8888/rtp/239.2.1.29:8288
+#EXTINF:-1 tvg-id="142" tvg-name="四川卫视" tvg-logo="http://532i.github.io/TVlist/logo/SICHUAN.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视[高清]
+http://192.168.10.1:8888/rtp/239.2.1.202:8168
 #EXTINF:-1 tvg-id="58" tvg-name="江西卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/JIANGXI.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226136/10000100000000060000000001103865_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视[高清]
 http://192.168.10.1:8888/rtp/239.2.1.123:8164
 #EXTINF:-1 tvg-id="48" tvg-name="天津卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/TIANJIN.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225984/10000100000000060000000000176931_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视[高清]
@@ -119,8 +119,8 @@ http://192.168.10.1:8888/rtp/239.2.1.240:8172
 http://192.168.10.1:8888/rtp/239.2.1.156:8148
 #EXTINF:-1 tvg-id="47" tvg-name="湖北卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/HUBEI.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225956/10000100000000060000000000146903_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视[高清]
 http://192.168.10.1:8888/rtp/239.2.1.138:8044
-#EXTINF:-1 tvg-id="154" tvg-name="陕西卫视" tvg-logo="http://532i.github.io/TVlist/logo/SHAANXI.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225836/10000100000000060000000000025065_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视
-http://192.168.10.1:8888/rtp/239.2.1.41:8140
+#EXTINF:-1 tvg-id="154" tvg-name="陕西卫视" tvg-logo="http://532i.github.io/TVlist/logo/SHAANXI.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225836/10000100000000060000000000025065_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视[高清]
+http://192.168.10.1:8888/rtp/239.2.1.203:8220
 #EXTINF:-1 tvg-id="71" tvg-name="宁夏卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/NINGXIA.png" group-title="卫视",宁夏卫视[高清]
 http://192.168.10.1:8888/rtp/239.2.1.169:8212
 #EXTINF:-1 tvg-id="157" tvg-name="青海卫视" tvg-logo="http://532i.github.io/TVlist/logo/QINGHAI.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225847/10000100000000060000000000025070_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",青海卫视
@@ -133,8 +133,8 @@ http://192.168.10.1:8888/rtp/239.2.1.52:4120
 http://192.168.10.1:8888/rtp/239.2.1.148:8072
 #EXTINF:-1 tvg-id="155" tvg-name="山西卫视" tvg-logo="http://532i.github.io/TVlist/logo/SHANXI.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225843/10000100000000060000000000025066_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山西卫视
 http://192.168.10.1:8888/rtp/239.2.1.42:8172
-#EXTINF:-1 tvg-id="156" tvg-name="内蒙古卫视" tvg-logo="http://532i.github.io/TVlist/logo/NEIMENGGU.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225845/10000100000000060000000000025068_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视
-http://192.168.10.1:8888/rtp/239.2.1.43:8176
+#EXTINF:-1 tvg-id="156" tvg-name="内蒙古卫视" tvg-logo="http://532i.github.io/TVlist/logo/NEIMENGGU.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225845/10000100000000060000000000025068_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视[高清]
+http://192.168.10.1:8888/rtp/239.2.1.204:8224
 #EXTINF:-1 tvg-id="64" tvg-name="新疆卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/XINJIANG.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226201/400975092.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视[高清]
 http://192.168.10.1:8888/rtp/239.2.1.167:8192
 #EXTINF:-1 tvg-id="63" tvg-name="西藏卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/XIZANG.png" group-title="卫视" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226192/400975121.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",西藏卫视[高清]
