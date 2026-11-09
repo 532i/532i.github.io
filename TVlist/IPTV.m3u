@@ -53,6 +53,8 @@ http://192.168.10.1:8888/rtp/239.2.1.219:4220
 http://192.168.10.1:8888/rtp/239.2.1.220:4220
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-4K.png" group-title="4K",CCTV-4K超高清
 http://192.168.10.1:8888/rtp/239.2.1.245:2000
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-16高清" tvg-logo="http://532i.github.io/TVlist/logo/CCTV-16.png" group-title="4K" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226148/10000100000000060000000001234273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 4K超高清
+http://192.168.10.1:8888/rtp/239.2.1.206:8000
 
 #EXTINF:-1 tvg-id="121" tvg-name="BRTV北京卫视高清" tvg-logo="http://532i.github.io/TVlist/logo/BRTV4K.png" group-title="4K" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221225870/10000100000000060000000000025099_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视4K超高清
 http://192.168.10.1:8888/rtp/239.2.1.118:8000
